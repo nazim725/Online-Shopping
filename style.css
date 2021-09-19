@@ -1,0 +1,37 @@
+.sp{
+    color: goldenrod;
+}
+
+.my-card{
+    position: fixed;
+    right: 20px;
+    top: 170px;
+    background-color: lightyellow;
+    border-radius: 10px;
+}
+
+.products{
+    position: relative;
+    top:10px;
+}
+.product{
+    border-radius: 10px;
+    background-color: lightyellow;
+    
+}
+.footer{
+    
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+span{
+    color:goldenrod
+}
+
+.shopping{
+    padding: 10px;
+    background-color: palegreen;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: rebeccapurple;
+}
