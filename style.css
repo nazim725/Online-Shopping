@@ -1,3 +1,9 @@
+
+header{
+    background-color: lavender;
+    
+}
+
 .sp{
     color: goldenrod;
 }
@@ -5,7 +11,7 @@
 .my-card{
     position: fixed;
     right: 20px;
-    top: 170px;
+    top: 145px;
     background-color: lightyellow;
     border-radius: 10px;
 }
